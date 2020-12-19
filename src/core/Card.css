@@ -1,0 +1,13 @@
+.card {
+    border-radius: 35px;
+
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-description{
+    color: #2874f0;
+}

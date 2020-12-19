@@ -1,0 +1,19 @@
+.nav{
+    background-color: #2874f0;
+    height: 50px;
+    display: 1;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    
+}
+
+.nav-mid{
+    display: flex;
+
+
+}
+
+.nav-right {
+    display: flex;
+}
